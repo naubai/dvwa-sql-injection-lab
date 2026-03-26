@@ -1,6 +1,8 @@
 # dvwa-sql-injection--lab
 SQL Injection and Blind SQL Injection lab using DVWA for cybersecurity practice
 
+Disclaimer : This project was conducted in a controlled lab environment for educational purposes only.
+
 Title:
 SQL Injection & Blind SQL Injection Lab (DVWA)
 
